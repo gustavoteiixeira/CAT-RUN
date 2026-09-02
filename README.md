@@ -1,0 +1,47 @@
+# 🐱 Cat Run
+
+## Sobre o projeto
+
+**Cat Run** é um jogo 2D desenvolvido para fins acadêmicos utilizando **Python** e a biblioteca **Pygame**.
+
+O jogador controla um gato que precisa avançar pela fase, desviando de obstáculos e utilizando o pulo duplo para sobreviver. O objetivo final é alcançar o peixe antes que ele ultrapasse o jogador.
+
+## Funcionalidades
+
+* Movimentação automática do cenário;
+* Sistema de pulo e pulo duplo;
+* Obstáculos gerados aleatoriamente;
+* Sistema de colisão;
+* Barra de progresso da fase;
+* Aumento gradual da velocidade;
+* Tela inicial, Game Over e tela de vitória;
+* Animações utilizando imagens e GIFs.
+
+## Tecnologias utilizadas
+
+* Python
+* Pygame
+* Pillow (PIL)
+
+## Como executar
+
+Instale as dependências necessárias:
+
+```bash
+pip install pygame pillow
+```
+
+Depois, execute o arquivo principal:
+
+```bash
+python main.py
+```
+
+## Controles
+
+* **SPACE:** Pular / Pulo duplo
+* **ENTER:** Iniciar ou reiniciar o jogo
+
+## Finalidade acadêmica
+
+Este projeto foi desenvolvido com objetivo educacional, aplicando conceitos de programação, lógica, orientação a objetos, manipulação de eventos, animações, colisões e desenvolvimento de jogos 2D.
