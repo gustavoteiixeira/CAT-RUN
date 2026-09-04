@@ -1,5 +1,5 @@
 # 🐱 Cat Run
-
+<img width="430" height="417" alt="Screenshot_1" src="https://github.com/user-attachments/assets/9be9822e-c662-4089-a367-1735b94cef14" />
 ## Sobre o projeto
 
 **Cat Run** é um jogo 2D desenvolvido para fins acadêmicos utilizando **Python** e a biblioteca **Pygame**.
@@ -45,3 +45,4 @@ python main.py
 ## Finalidade acadêmica
 
 Este projeto foi desenvolvido com objetivo educacional, aplicando conceitos de programação, lógica, orientação a objetos, manipulação de eventos, animações, colisões e desenvolvimento de jogos 2D.
+
